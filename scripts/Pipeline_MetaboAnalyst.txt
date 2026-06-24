@@ -1,0 +1,13 @@
+Pipeline utilizado
+
+Datos procesados ST002115
+Control de calidad
+Normalización: None
+Transformación: Log10
+Escalamiento: Pareto Scaling
+PCA
+Scree Plot
+Loading Plot
+Biplot
+Heatmap
+ANOVA
