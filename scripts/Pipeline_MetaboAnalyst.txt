@@ -1,13 +1,23 @@
-Pipeline utilizado
+PROYECTO FINAL – ST002115
 
-Datos procesados ST002115
-Control de calidad
-Normalización: None
-Transformación: Log10
-Escalamiento: Pareto Scaling
-PCA
-Scree Plot
-Loading Plot
-Biplot
-Heatmap
-ANOVA
+Software:
+MetaboAnalyst 6.0
+
+Pipeline analítico:
+
+1. Datos procesados (Metabolomics Workbench)
+2. Control de calidad (Data Integrity Check)
+3. Normalización: None
+4. Transformación: Log10
+5. Escalamiento: Pareto Scaling
+6. Análisis de Componentes Principales (PCA)
+7. Scree Plot
+8. Loading Plot
+9. Biplot
+10. Heatmap jerárquico
+11. One-way ANOVA (FDR < 0.05)
+12. Interpretación biológica
+
+Dataset:
+Study ID: ST002115
+DOI: 10.21228/M8HD8Q
